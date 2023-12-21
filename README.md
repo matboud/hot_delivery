@@ -20,8 +20,9 @@ Ensured responsiveness and usability on mobile devices.
 * Custom mock APIs for product data and cart actions.
 
 ## Acknowledgment
-some animations have been added to make the app alive a bit.
-https://github.com/matboud/hot_delivery/assets/24990394/d60b0424-bf25-4b34-b18a-6c4bcd0dd2ad
+some animations have been added to make the app alive a bit. <br>
+<img src="https://github.com/matboud/hot_delivery/assets/24990394/873962ae-5911-479f-b4a4-f7c56b2fa55d" width="180">
+
 
 ## Author
 [![matboud](https://avatars.githubusercontent.com/u/24990394?s=96&v=4)](https://github.com/matboud)
