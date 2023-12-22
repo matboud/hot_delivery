@@ -23,6 +23,11 @@ Ensured responsiveness and usability on mobile devices.
 some animations have been added to make the app alive a bit. <br>
 <img src="https://github.com/matboud/hot_delivery/assets/24990394/873962ae-5911-479f-b4a4-f7c56b2fa55d" width="180">
 
+## Run the App
+```
+$ dart run build_runner build
+$ flutter run
+```
 
 ## Author
 [![matboud](https://avatars.githubusercontent.com/u/24990394?s=96&v=4)](https://github.com/matboud)
